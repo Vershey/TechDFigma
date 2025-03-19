@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="TechD-Figma" language="en" table="x_1625773_techd_0_techd_figma">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>TechD-Figma</label>
+            <language>en</language>
+            <name>x_1625773_techd_0_techd_figma</name>
+            <plural>TechD-Figmas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-19 18:45:52</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TechD-Figma</sys_name>
+            <sys_package display_value="TechD-Figma" source="x_1625773_techd_0">d256bc8f8394ea109a6cc7b6feaad3e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TechD-Figma">d256bc8f8394ea109a6cc7b6feaad3e3</sys_scope>
+            <sys_update_name>sys_documentation_x_1625773_techd_0_techd_figma__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-19 18:45:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

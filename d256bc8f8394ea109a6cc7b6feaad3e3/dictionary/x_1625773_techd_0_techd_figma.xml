@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="989634cf8394ea109a6cc7b6feaad3a3" label="TechD-Figma" max_length="40" name="x_1625773_techd_0_techd_figma" type="collection">
+        <element default="Varshan" label="FirstName" max_length="40" name="firstname" type="string"/>
+    </element>
+</database>

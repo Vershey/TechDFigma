@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1625773_techd_0.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-19 18:44:55</sys_created_on>
+        <sys_id>1256fc8f8394ea109a6cc7b6feaad303</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1625773_techd_0.user</sys_name>
+        <sys_package display_value="TechD-Figma" source="x_1625773_techd_0">d256bc8f8394ea109a6cc7b6feaad3e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TechD-Figma">d256bc8f8394ea109a6cc7b6feaad3e3</sys_scope>
+        <sys_update_name>sys_user_role_1256fc8f8394ea109a6cc7b6feaad303</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-19 18:44:55</sys_updated_on>
+    </sys_user_role>
+</record_update>
