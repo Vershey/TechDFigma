@@ -47,11 +47,12 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-19 18:45:52</sys_created_on>
+        <sys_id>6cc93c0f9390a210974a1aebb9373cfe</sys_id>
         <sys_name>x_1625773_techd_0_techd_figma</sys_name>
         <sys_package display_value="TechD-Figma" source="x_1625773_techd_0">d256bc8f8394ea109a6cc7b6feaad3e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="TechD-Figma">d256bc8f8394ea109a6cc7b6feaad3e3</sys_scope>
-        <sys_update_name>sys_dictionary_x_1625773_techd_0_techd_figma_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1625773_techd_0_techd_figma_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-03-19 18:45:52</sys_updated_on>
         <table_reference>false</table_reference>

@@ -21,13 +21,13 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>firstname</element>
+        <element>dates</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Date">date</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_1625773_techd_0_techd_figma</name>
@@ -46,14 +46,15 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-03-19 18:47:23</sys_created_on>
-        <sys_name>FirstName</sys_name>
+        <sys_created_on>2025-03-19 19:39:15</sys_created_on>
+        <sys_id>9ec2410b93d0a210974a1aebb9373c1e</sys_id>
+        <sys_name>Dates</sys_name>
         <sys_package display_value="TechD-Figma" source="x_1625773_techd_0">d256bc8f8394ea109a6cc7b6feaad3e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="TechD-Figma">d256bc8f8394ea109a6cc7b6feaad3e3</sys_scope>
-        <sys_update_name>sys_dictionary_x_1625773_techd_0_techd_figma_firstname</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1625773_techd_0_techd_figma_dates</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-19 18:47:23</sys_updated_on>
+        <sys_updated_on>2025-03-19 19:39:15</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
