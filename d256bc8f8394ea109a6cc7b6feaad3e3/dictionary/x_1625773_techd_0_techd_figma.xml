@@ -5,6 +5,12 @@
         <element default="2025-03-19" label="Dates" name="dates" type="date"/>
         <element default="4987671098" label="Policy Number" max_length="255" name="policy_number" type="integer"/>
         <element default="www.unqork.com" label="Website" max_length="1024" name="website" type="url"/>
+        <element choice="3" display="true" label="Services" max_length="40" name="services" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AWS" sequence="0" value="aws"/>
+                <element inactive_on_update="false" label="Azure" sequence="1" value="azure"/>
+            </choice>
+        </element>
         </element>
        </database>
 
