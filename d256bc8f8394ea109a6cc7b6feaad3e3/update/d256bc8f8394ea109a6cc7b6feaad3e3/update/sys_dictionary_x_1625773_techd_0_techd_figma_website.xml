@@ -8,7 +8,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>WebSite</column_label>
+        <column_label>Website</column_label>
         <comments/>
         <create_roles/>
         <default_value>www.unqork.com</default_value>
