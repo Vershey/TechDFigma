@@ -2,5 +2,6 @@
     <element db_object_id="989634cf8394ea109a6cc7b6feaad3a3" label="TechD-Figma" max_length="40" name="x_1625773_techd_0_techd_figma" type="collection">
         <element default="Varshan" label="FirstName" max_length="40" name="firstname" type="string"/>
         <element default="Narayanan" label="LastName" max_length="40" name="lastname" type="string"/>
+        <element default="2025-03-19" label="Dates" name="dates" type="date"/>
     </element>
 </database>
