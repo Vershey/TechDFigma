@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="services" table="x_1625773_andoru_0_figma_servicenow">
+?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="services" table="x_1625773_techd_0_techd_figma">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -11,26 +11,26 @@
         <column_label>Services</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
-        <defaultsort/>
+        <default_value>
+         <defaultsort/>
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>true</display>
+        <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>product</element>
+        <element>firstname</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Choice">choice</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_1625773_andoru_0_figma_servicenow</name>
+        <name>x_1625773_techd_0_techd_figma</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -46,14 +46,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-03-17 15:14:31</sys_created_on>
-        <sys_name>Product</sys_name>
-        <sys_package display_value="AndorUpgMarScreen1" source="x_1625773_andoru_0">d8e1355683102a109a6cc7b6feaad362</sys_package>
+        <sys_created_on>2025-03-19 18:47:23</sys_created_on>
+        <sys_name>FirstName</sys_name>
+        <sys_package display_value="TechD-Figma" source="x_1625773_techd_0">d256bc8f8394ea109a6cc7b6feaad3e3</sys_package>
         <sys_policy/>
-        <sys_scope display_value="AndorUpgMarScreen1">d8e1355683102a109a6cc7b6feaad362</sys_scope>
-        <sys_update_name>sys_dictionary_x_1625773_andoru_0_figma_servicenow_product</sys_update_name>
+        <sys_scope display_value="TechD-Figma">d256bc8f8394ea109a6cc7b6feaad3e3</sys_scope>
+        <sys_update_name>sys_dictionary_x_1625773_techd_0_techd_figma_firstname</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-17 15:14:32</sys_updated_on>
+        <sys_updated_on>2025-03-19 18:47:23</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
