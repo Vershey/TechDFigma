@@ -38,8 +38,8 @@
             <dependent_value/>
             <element>services</element>
             <hint/>
-            <inactive>Azure</inactive>
-            <label>Unqork</label>
+            <inactive>false</inactive>
+            <label>Azure</label>
             <language>en</language>
             <name>x_1625773_techd_0_techd_figma</name>
             <sequence>1</sequence>
@@ -51,7 +51,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2025-03-19 18:47:23</sys_updated_on>
-            <value>unqork</value>
+            <value>azure</value>
         </sys_choice>
     </sys_choice>
 </record_update>
