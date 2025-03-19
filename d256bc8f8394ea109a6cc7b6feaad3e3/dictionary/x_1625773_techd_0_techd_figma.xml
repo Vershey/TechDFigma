@@ -4,6 +4,7 @@
         <element default="Narayanan" label="LastName" max_length="40" name="lastname" type="string"/>
         <element default="2025-03-19" label="Dates" name="dates" type="date"/>
         <element default="4987671098" label="Policy Number" max_length="255" name="policy_number" type="integer"/>
+        <element default="www.unqork.com" label="Website" max_length="1024" name="website" type="url"/>
         </element>
        </database>
 
