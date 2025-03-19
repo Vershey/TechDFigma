@@ -8,6 +8,7 @@
                 <element inactive_on_update="false" label="AWS" sequence="0" value="aws"/>
                 <element inactive_on_update="false" label="Azure" sequence="1" value="azure"/>
             </choice>
+        </element>
         
             
     </element>
