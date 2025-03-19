@@ -3,5 +3,11 @@
         <element default="Varshan" label="FirstName" max_length="40" name="firstname" type="string"/>
         <element default="Narayanan" label="LastName" max_length="40" name="lastname" type="string"/>
         <element default="2025-03-19" label="Dates" name="dates" type="date"/>
+        <element choice="3" display=true label="Services" max_length=40 name="services" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AWS" sequence="0" value="aws"/>
+                <element inactive_on_update="false" label="Azure" sequence="1" value="azure"/>
+            </choice>
+            
     </element>
 </database>
