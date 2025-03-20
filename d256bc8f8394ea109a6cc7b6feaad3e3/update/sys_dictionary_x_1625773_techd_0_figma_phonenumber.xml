@@ -11,7 +11,7 @@
         <column_label>Phone Number</column_label>
         <comments/>
         <create_roles/>
-        <default_value>+1(405)-974-6039</default_value>
+        <default_value>(405)-974-6039</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
