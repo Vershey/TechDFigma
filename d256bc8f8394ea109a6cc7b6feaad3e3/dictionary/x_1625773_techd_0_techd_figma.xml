@@ -6,6 +6,7 @@
         <element default="4987671098" label="Policy Number" max_length="255" name="policy_number" type="integer"/>
         <element default="www.unqork.com" label="Website" max_length="1024" name="website" type="url"/>
         <element default="amruth.narayanan@aidenai.com" label="Email" max_length="40" name="email" type="string"/>
+        <element default="61.73" label="Payment Account" max_length="20" name="payment_account" type="price"/>
      <element choice="3" display="true" label="Services" max_length="40" name="services" type="choice">
             <choice>
                 <element inactive_on_update="false" label="AWS" sequence="0" value="aws"/>
