@@ -8,6 +8,13 @@
         <element default="amruth.narayanan@aidenai.com" label="Email" max_length="40" name="email" type="string"/>
         <element default="61.73" label="Payment Account" max_length="20" name="payment_account" type="price"/>
         <element default="+1 (404)-974-6039" label="Mobile Number" max_length="255" name="mobile_number" type="phone_number_e164"/>
+         <element choice="1" label="Search" max_length="40" name="search" type="radio">
+             <choice>
+            <element inactive_on_update="false" label="PRODUCT 2" sequence="1" value="PRODUCT 2"/>
+                <element inactive_on_update="false" label="PRODUCT 3" sequence="2" value="PRODUCT 3"/>
+                <element inactive_on_update="false" label="PRODUCT 1" sequence="0" value="PRODUCT 1"/>
+            </choice>
+        </element>
        <element choice="3" display="true" label="Services" max_length="40" name="services" type="choice">
         <choice>
                 <element inactive_on_update="false" label="AWS" sequence="0" value="aws"/>
